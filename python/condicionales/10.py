@@ -1,0 +1,5 @@
+letra1 = input("Ingrese la primera letra: ")
+letra2 = input("Ingrese la segunda letra: ")
+letra3 = input("Ingrese la tercera letra: ")
+letra_min = min(letra1, letra2, letra3)
+print("La letra que viene primero en el alfabeto es:", letra_min)
